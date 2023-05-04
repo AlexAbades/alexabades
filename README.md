@@ -29,9 +29,7 @@ As a highly optimistic and proactive individual, I approach every challenge with
 </a> 
 <br />
 🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a>🔝
-
-
-#### Top Repositories
+<!-- #### Top Repositories -->
 
 <!-- Extra repositories names -->
 <!-- <a href="https://github.com/AlexAbades/alexabades.github.io">
@@ -40,15 +38,13 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <a href="https://github.com/AlexAbades/Nerve_segmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
 </a> -->
-
+<!-- 
 <br />
 <br />
 <!-- Icons -->
 <a href="https://www.linkedin.com/in/alexabades/">
   <img align="right" alt="Alex Abades | LinkedIn" width="21px" src="./assets/linkedin_log.webp" />
-</a>
-
-
+</a> -->
 
 ## Contact Information 
 <!-- Contact Information -->
