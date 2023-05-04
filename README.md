@@ -26,7 +26,7 @@ As a highly optimistic and proactive individual, I approach every challenge with
 #### 🌐 Visit my webpage 
 <a href="https://alexabades.github.io/">
 <img src="./assets/webgif.gif" width="120px"> 
-
+<br />
 </a> 
 🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a>🔝
 
@@ -47,9 +47,7 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <a href="https://www.linkedin.com/in/alexabades/">
   <img align="right" alt="Alex Abades | LinkedIn" width="21px" src="./assets/linkedin_log.webp" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+
 
 
 ## Contact Information 
