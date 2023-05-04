@@ -26,19 +26,20 @@ As a highly optimistic and proactive individual, I approach every challenge with
 #### 🌐 Visit my webpage 
 <a href="https://alexabades.github.io/">
 <img src="./assets/webgif.gif" width="120px"> 
+
 </a> 
-🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a> 
-⬅
+🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a>🔝
+
 
 #### Top Repositories
 
 <!-- Extra repositories names -->
-<a href="https://github.com/AlexAbades/alexabades.github.io">
+<!-- <a href="https://github.com/AlexAbades/alexabades.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=default_repocard" />
 </a>
 <a href="https://github.com/AlexAbades/Nerve_segmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
-</a>
+</a> -->
 
 <br />
 <br />
@@ -50,9 +51,6 @@ As a highly optimistic and proactive individual, I approach every challenge with
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-<a href=(mailto:abadesalex31@gmail.com)>
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 ## Contact Information 
 <!-- Contact Information -->
