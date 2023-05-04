@@ -9,7 +9,7 @@
 As a highly optimistic and proactive individual, I approach every challenge with energy and the will to learn new skills. I have a deep passion for Artificial Intelligence and innovation and enjoy collaborating with cross-functional teams to achieve shared goals. Finally, I thrive in dynamic environments and am always seeking to take on new challenges.</p>
 
 - 💼 Co-CEO NeoCareU Building a healthcare StartUp
-- 📚 Artificial Intelligence student
+- 📚 MSc Artificial Intelligence at DTU (Denmark Technical University)
 - 📈 
 - ❤️ 
 - 💬 Ask me about anything [here](https://github.com/AlexAbades/alexabades/issues)
@@ -50,5 +50,5 @@ As a highly optimistic and proactive individual, I approach every challenge with
 
 ## Contact Information 
 <!-- Contact Information -->
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abadesalex31@gmail.com) 
+[![gmail]("./assets/gmail_logo.png")](mailto:abadesalex31@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexabades/)
