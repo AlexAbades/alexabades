@@ -26,8 +26,8 @@ As a highly optimistic and proactive individual, I approach every challenge with
 #### 🌐 Visit my webpage 
 <a href="https://alexabades.github.io/">
 <img src="./assets/webgif.gif" width="120px"> 
-<br />
 </a> 
+<br />
 🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a>🔝
 
 
