@@ -41,9 +41,14 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <br />
 <br />
 <!-- Icons -->
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/alexabades/">
+  <img align="right" alt="Alex Abades | LinkedIn" width="21px" src="./assets/linkedin_log.webp" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
+## Contact Information 
+<!-- Contact Information -->
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abadesalex31@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexabades/)
