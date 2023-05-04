@@ -24,19 +24,20 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&theme=buefy&hide_border=true&title_color=2f80ed" /></a> 
 
 #### 🌐 Visit my webpage 
-
-<img href="https://alexabades.github.io/" src="./assets/webgif.gif" width="120px">  
-🔝 Don't be shy... click!
+<a href="https://alexabades.github.io/">
+<img src="./assets/webgif.gif" width="120px"> 
+</a> 
+🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a> 
 ⬅
 
 #### Top Repositories
 
 <!-- Extra repositories names -->
 <a href="https://github.com/AlexAbades/alexabades.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexabades&repo=github-readme-stats&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=default_repocard" />
 </a>
 <a href="https://github.com/AlexAbades/Nerve_segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexabades&repo=anuraghazra.github.io&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
 </a>
 
 <br />
