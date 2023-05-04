@@ -5,9 +5,13 @@
 
 **About me**
 
-- 💼 
+<p align="justify">Artificial Intelligence engineer with a Mechanical & SQL background, I bring a diverse knowledge in Python (PyTorch, Pandas, SciPy, Scrapy), SQL, HTML, REACT, CSS. As a versatile professional I bring a diverse skill set to the table, besides a unique perspective to problem-solving and innovation, I outstand on research and analytical skills, technical expertise, data analysis and strategical thinking. 
+As a highly optimistic and proactive individual, I approach every challenge with energy and the will to learn new skills. I have a deep passion for Artificial Intelligence and innovation and enjoy collaborating with cross-functional teams to achieve shared goals. Finally, I thrive in dynamic environments and am always seeking to take on new challenges.</p>
 
+- 💼 Co-CEO NeoCareU Building a healthcare StartUp
+- 📚 Artificial Intelligence student
 - 📈 
+- 📚
 
 - ❤️ 
 
@@ -23,23 +27,27 @@
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&layout=compact&theme=buefy&hide_border=true&title_color=2f80ed" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> 
+
+
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&layout=compact&theme=buefy&hide_border=true&title_color=2f80ed" /></a> 
+
 
 #### Top Repositories
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<!-- Extra repositories names -->
+<a href="https://github.com/AlexAbades/alexabades.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=default_repocard" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/AlexAbades/Nerve_segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
 </a>
 
 <br />
 <br />
-
+<!-- Icons -->
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
