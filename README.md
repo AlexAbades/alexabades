@@ -1,7 +1,7 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
 
 <br />
-
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! Paulo here..
 
 **About me**
 
@@ -10,32 +10,32 @@ As a highly optimistic and proactive individual, I approach every challenge with
 
 - 💼 Co-CEO NeoCareU Building a healthcare StartUp
 - 📚 MSc Artificial Intelligence at DTU (Denmark Technical University)
-- 📈 
-- ❤️ 
 - 💬 Ask me about anything [here](https://github.com/AlexAbades/alexabades/issues)
 
 
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="javascript" src="./assets/python.png"></code>
+<code><img height="20" alt="javascript" src="./assets/matlab.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="javascript" src="./assets/html.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&theme=buefy&hide_border=true&title_color=2f80ed" /></a> 
 
+#### 🌐 Visit my webpage 
+
+Hi <img href="https://alexabades.github.io/" src="./assets/webgif.gif" width="30px">! Paulo here..
 
 #### Top Repositories
 
-
 <!-- Extra repositories names -->
 <a href="https://github.com/AlexAbades/alexabades.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexabades&repo=github-readme-stats&theme=default_repocard" />
 </a>
 <a href="https://github.com/AlexAbades/Nerve_segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexabades&repo=anuraghazra.github.io&theme=default_repocard" />
 </a>
 
 <br />
@@ -48,7 +48,11 @@ As a highly optimistic and proactive individual, I approach every challenge with
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
+<a href=(mailto:abadesalex31@gmail.com)>
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+
 ## Contact Information 
 <!-- Contact Information -->
-[![gmail]("./assets/gmail_logo.png")](mailto:abadesalex31@gmail.com) 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abadesalex31@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexabades/)
