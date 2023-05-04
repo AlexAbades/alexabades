@@ -11,10 +11,7 @@ As a highly optimistic and proactive individual, I approach every challenge with
 - 💼 Co-CEO NeoCareU Building a healthcare StartUp
 - 📚 Artificial Intelligence student
 - 📈 
-- 📚
-
 - ❤️ 
-
 - 💬 Ask me about anything [here](https://github.com/AlexAbades/alexabades/issues)
 
 
@@ -27,11 +24,7 @@ As a highly optimistic and proactive individual, I approach every challenge with
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> 
-
-
-
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&layout=compact&theme=buefy&hide_border=true&title_color=2f80ed" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexabades&theme=buefy&hide_border=true&title_color=2f80ed" /></a> 
 
 
 #### Top Repositories
