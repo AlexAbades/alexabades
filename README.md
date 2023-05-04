@@ -42,9 +42,9 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <br />
 <br />
 <!-- Icons -->
-<a href="https://www.linkedin.com/in/alexabades/">
+<!-- <a href="https://www.linkedin.com/in/alexabades/">
   <img align="right" alt="Alex Abades | LinkedIn" width="21px" src="./assets/linkedin_log.webp" />
-</a> -->
+</a> --> -->
 
 ## Contact Information 
 <!-- Contact Information -->
