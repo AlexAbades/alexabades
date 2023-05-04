@@ -1,7 +1,6 @@
-<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
-
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! Alex here..
 <br />
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">! Paulo here..
+
 
 **About me**
 
@@ -26,7 +25,9 @@ As a highly optimistic and proactive individual, I approach every challenge with
 
 #### 🌐 Visit my webpage 
 
-Hi <img href="https://alexabades.github.io/" src="./assets/webgif.gif" width="30px">! Paulo here..
+<img href="https://alexabades.github.io/" src="./assets/webgif.gif" width="120px">  
+🔝 Don't be shy... click!
+⬅
 
 #### Top Repositories
 
