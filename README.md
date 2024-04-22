@@ -17,30 +17,18 @@ As a highly optimistic and proactive individual, I approach every challenge with
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexabades&title_color=2f80ed&show_icons=true&icon_color=4c71f2&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex github stats" /></a> 
-#### 🌐 Visit my webpage 
-<a href="https://alexabades.github.io/">
-<img src="./assets/webgif.gif" width="120px"> 
+-->
+#### 🌐 Visit my  <a href="https://alexabades.github.io/"> webpage</a>:
+<!-- Don't be shy...<a href="https://alexabades.github.io/">click!</a> -->
+<!-- <a href="https://alexabades.github.io/">
+ <img src="./assets/webgif.gif" width="120px">  
 </a> 
-<br />
-🔝 Don't be shy...<a href="https://alexabades.github.io/">click!</a>🔝
+-->
+
 <!-- #### Top Repositories -->
 
-<!-- Extra repositories names -->
-<!-- <a href="https://github.com/AlexAbades/alexabades.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=default_repocard" />
-</a>
-<a href="https://github.com/AlexAbades/Nerve_segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=default_repocard" />
-</a> -->
-<!-- 
-<br />
-<br />
-<!-- Icons -->
-<!-- <a href="https://www.linkedin.com/in/alexabades/">
-  <img align="right" alt="Alex Abades | LinkedIn" width="21px" src="./assets/linkedin_log.webp" />
-</a> --> -->
 
 ## Contact Information 
 <!-- Contact Information -->
